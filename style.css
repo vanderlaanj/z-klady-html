@@ -1,0 +1,14 @@
+table, th, td{
+    border: 1px solid white;
+}
+h1{
+    text-align: center;
+    background-color:grey;
+}
+footer{
+    border-top:white solid;
+}
+*{
+    background:black;
+    color: white;
+}
