@@ -1,5 +1,6 @@
 table, th, td{
     border: 1px solid white;
+    
 }
 h1{
     text-align: center;
@@ -11,4 +12,7 @@ footer{
 *{
     background:black;
     color: white;
+}
+main{
+    padding-left: 500px;
 }
